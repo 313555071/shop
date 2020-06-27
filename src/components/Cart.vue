@@ -31,7 +31,7 @@
       </tbody>
       <tfoot>
         <tr>
-          <td colspan="3" class="text-right">總計</td>
+          <td colspan="3" class="text-right">总计</td>
           <td class="text-right">{{ cart.total }}</td>
         </tr>
         <tr>
